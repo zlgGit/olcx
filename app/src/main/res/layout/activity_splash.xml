@@ -5,8 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.ol.olcx.SplashActivity"
-           android:background="#9000"
-    android:src="@mipmap/ic_launcher"
+    android:background="#9000"
+    android:src="@drawable/image_ad"
     >
 
 </ImageView>
